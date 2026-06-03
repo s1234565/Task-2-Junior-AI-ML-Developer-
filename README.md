@@ -2,6 +2,10 @@
 
 A professional web application for managing patient blood test records and generating AI-powered health risk predictions using Google Gemini.
 
+## Screenshots
+ Patient Records 
+<img width="1905" height="859" alt="image" src="https://github.com/user-attachments/assets/6671f6c1-a545-41c1-a43d-f49806ad9c6c" />
+
 The Health Prediction Application allows healthcare staff to:
 - Manage patient records (create, view, update, delete)
 - Search patients by name or email
@@ -16,10 +20,4 @@ Features
 - **AI Prediction** — Gemini API generates a short health risk summary (under 40 words)
 - **Graceful Error Handling** — fallback message if the API is unavailable
 - **Medical Disclaimer** — displayed alongside every AI-generated remark
-
-## Screenshots
- Patient Records 
-<img width="1905" height="859" alt="image" src="https://github.com/user-attachments/assets/6671f6c1-a545-41c1-a43d-f49806ad9c6c" />
-
-
 
