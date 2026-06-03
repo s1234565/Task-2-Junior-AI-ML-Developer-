@@ -7,9 +7,7 @@ The Health Prediction Application allows healthcare staff to:
 - Search patients by name or email
 - Automatically generate AI health risk predictions from blood test values (Glucose, Haemoglobin, Cholesterol)
 - View a dashboard with summary statistics and recent predictions
-
 All data is stored locally in a SQLite database. Predictions are generated via the Google Gemini API and saved alongside each patient record.
-
 Features
 - **Dashboard** — total patient count, recent patients table, latest AI predictions
 - **Add Patient** — form with full validation and instant AI prediction on submit
